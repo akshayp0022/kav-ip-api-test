@@ -6,7 +6,10 @@
     "dev": "nodemon index.js",
     "start": "node index.js"
   },
-  "author": "",
+  "engines": {
+    "node": "18.x"
+  },
+  "author": "Akshay Pawar",
   "license": "ISC",
   "description": "",
   "dependencies": {
